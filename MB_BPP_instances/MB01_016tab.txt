@@ -1,0 +1,15 @@
+Mack/Bortfeldt(2008)
+Bin-Packing-Problem
+BP-RG/SBSBPP/SSSCSP
+Testcase-ID	1
+Problem-ID	16
+no_item_types	5
+no_items	1420
+CONTAINER_DATA (l,w,h)	587	233	220
+ITEMS_DATA:
+Type	x	y	z	no_items
+1	86	84	45	286
+2	78	73	40	294
+3	71	61	52	271
+4	70	54	37	306
+5	81	45	34	263
